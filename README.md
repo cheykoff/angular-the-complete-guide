@@ -4,7 +4,7 @@ This project was originally generated with [Angular CLI](https://github.com/angu
 The files in the course were updated to Angular CLI version 11.
 The files in this repository were updated to Angular CLI version 14.
 
-Feel free to use this updated version. But be aware: I don't what I'm doing. :) 
+Feel free to use this updated version. But be aware: I don't know what I'm doing. :) 
 
 ## Development server
 
